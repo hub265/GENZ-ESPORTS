@@ -86,7 +86,7 @@
 
   <p>Join India's Best Free Fire Tournament • Compete Daily, Win Cash Instantly 💥</p>
 
-  <a href="https://ga-fs.primexop.com/11593/androidBuilds/daily-battleV1.apk" class="download-btn" download>⚔ Download App (APK)</a>
+  <a href="https://ga-fs.primexop.com/11776/androidBuilds/genz-esportsV1.apk" class="download-btn" download>⚔ Download App (APK)</a>
 
   <div class="feature">
     <h3>🎯 Free Tournaments</h3>
